@@ -1,0 +1,23 @@
+body{
+    font-family: 'Inter', sans-serif;
+    background: white;
+
+}
+
+h1{
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
+
+    color: black;
+}
+h1 span{
+    font-weight: bold;
+}
+span{
+    color: #FF9900;
+}
+
+p{
+   color: #7d7987; 
+}
