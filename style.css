@@ -2,8 +2,13 @@ body{
     font-family: 'Inter', sans-serif;
     background: white;
 
-}
+    text-align: center;
 
+}
+#hero{
+    width: 592px;
+    margin: auto;
+}
 h1{
     font-size: 49px;
     line-height: 56px;
@@ -14,10 +19,12 @@ h1{
 h1 span{
     font-weight: bold;
 }
-span{
+span , a{
     color: #FF9900;
 }
 
 p{
-   color: #7d7987; 
+   color: #7d7987;
+   font-size: 14px;
+   line-height: 28px;
 }
